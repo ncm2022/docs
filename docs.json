@@ -24,6 +24,7 @@
         "groups": [
           {
             "group": "CATapult 2026 - Classroom/Online",
+            "collapsed": true,
             "pages": [
               "pg/catapult-2026/introduction",
               "pg/catapult-2026/courseware",
@@ -41,6 +42,7 @@
           },
           {
             "group": "CATapult 2026 - SLP",
+            "collapsed": true,
             "pages": [
               "pg/catapult-2026-slp/introduction",
               "pg/catapult-2026-slp/courseware",
