@@ -38,7 +38,8 @@
               "pg/catapult-2026/ims-helpdesk",
               "pg/catapult-2026/glossary",
               "pg/catapult-2026/faq"
-            ]
+            ],
+            "icon": "building-2"
           },
           {
             "group": "CATapult 2026 - SLP",
