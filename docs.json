@@ -23,6 +23,7 @@
         "groups": [
           {
             "group": "CATapult 2026 - Classroom/Online",
+            "collapsed": true,
             "pages": [
               "pg/catapult-2026/introduction",
               "pg/catapult-2026/courseware",
@@ -40,6 +41,7 @@
           },
           {
             "group": "CATapult 2026 - SLP",
+            "collapsed": true,
             "pages": [
               "pg/catapult-2026-slp/introduction",
               "pg/catapult-2026-slp/courseware",
@@ -56,6 +58,7 @@
           },
           {
             "group": "MBA CMAT/CET 2027",
+            "collapsed": true,
             "pages": [
               "pg/mba-cet-2027/introduction",
               "pg/mba-cet-2027/courseware",
