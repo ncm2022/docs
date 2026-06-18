@@ -22,6 +22,12 @@
         "tab": "PG - Management Studies",
         "groups": [
           {
+            "group": " ",
+            "pages": [
+              "pg/index"
+            ]
+          },
+          {
             "group": "CATapult 2026 - Classroom/Online",
             "collapsed": true,
             "pages": [
