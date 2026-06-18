@@ -20,11 +20,9 @@
     "tabs": [
       {
         "tab": "PG - Management Studies",
-        "icon": "university",
         "groups": [
           {
             "group": "CATapult 2026 - Classroom/Online",
-            "icon": "building-2",
             "pages": [
               "pg/catapult-2026/introduction",
               "pg/catapult-2026/courseware",
