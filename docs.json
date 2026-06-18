@@ -21,10 +21,10 @@
       {
         "tab": "PG - Management Studies",
         "icon": "university",
-        "groups": [
+        "dropdowns": [
           {
-            "group": "CATapult 2026 - Classroom/Online",
-            "collapsed": true,
+            "dropdown": "CATapult 2026 - Classroom/Online",
+            "icon": "building-2",
             "pages": [
               "pg/catapult-2026/introduction",
               "pg/catapult-2026/courseware",
@@ -38,12 +38,10 @@
               "pg/catapult-2026/ims-helpdesk",
               "pg/catapult-2026/glossary",
               "pg/catapult-2026/faq"
-            ],
-            "icon": "building-2"
+            ]
           },
           {
-            "group": "CATapult 2026 - SLP",
-            "collapsed": true,
+            "dropdown": "CATapult 2026 - SLP",
             "pages": [
               "pg/catapult-2026-slp/introduction",
               "pg/catapult-2026-slp/courseware",
@@ -59,7 +57,7 @@
             ]
           },
           {
-            "group": "MBA CMAT/CET 2027",
+            "dropdown": "MBA CMAT/CET 2027",
             "pages": [
               "pg/mba-cet-2027/introduction",
               "pg/mba-cet-2027/courseware",
