@@ -21,9 +21,9 @@
       {
         "tab": "PG - Management Studies",
         "icon": "university",
-        "dropdowns": [
+        "groups": [
           {
-            "dropdown": "CATapult 2026 - Classroom/Online",
+            "group": "CATapult 2026 - Classroom/Online",
             "icon": "building-2",
             "pages": [
               "pg/catapult-2026/introduction",
@@ -41,7 +41,7 @@
             ]
           },
           {
-            "dropdown": "CATapult 2026 - SLP",
+            "group": "CATapult 2026 - SLP",
             "pages": [
               "pg/catapult-2026-slp/introduction",
               "pg/catapult-2026-slp/courseware",
@@ -57,7 +57,7 @@
             ]
           },
           {
-            "dropdown": "MBA CMAT/CET 2027",
+            "group": "MBA CMAT/CET 2027",
             "pages": [
               "pg/mba-cet-2027/introduction",
               "pg/mba-cet-2027/courseware",
