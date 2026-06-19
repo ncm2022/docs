@@ -17,10 +17,13 @@
   },
   "navigation": {
     "directory": "card",
-    "tabs": [
+    "products": [
       {
-        "tab": "PG - Management Studies",
-        "groups": [
+        "product": "PG - Management Studies",
+        "icon": "graduation-cap",
+        "description": "Postgraduate management programs",
+        "pages": [
+          "index.mdx",
           {
             "group": "Programs",
             "pages": [
@@ -28,6 +31,7 @@
               {
                 "group": "CAT 2026 - Classroom/Online",
                 "icon": "arrow-up-right",
+                "expanded": false,
                 "pages": [
                   "pg/catapult-2026/introduction",
                   "pg/catapult-2026/courseware",
@@ -46,6 +50,7 @@
               {
                 "group": "CATapult 2026 - SLP",
                 "icon": "arrow-up-right",
+                "expanded": false,
                 "pages": [
                   "pg/catapult-2026-slp/introduction",
                   "pg/catapult-2026-slp/courseware",
@@ -63,6 +68,7 @@
               {
                 "group": "MBA CMAT/CET 2027",
                 "icon": "arrow-up-right",
+                "expanded": false,
                 "pages": [
                   "pg/mba-cet-2027/introduction",
                   "pg/mba-cet-2027/courseware",
@@ -83,29 +89,33 @@
         ]
       },
       {
-        "tab": "UG - Management Studies",
-        "groups": [],
+        "product": "UG - Management Studies",
+        "icon": "book-open",
+        "description": "Undergraduate management programs",
         "pages": [
           "ug/overview.mdx"
         ]
       },
       {
-        "tab": "IMS Get. Set. Law",
-        "groups": [],
+        "product": "IMS Get. Set. Law",
+        "icon": "scale",
+        "description": "Law entrance programs",
         "pages": [
           "get-set-law/overview.mdx"
         ]
       },
       {
-        "tab": "IMS International",
-        "groups": [],
+        "product": "IMS International",
+        "icon": "globe",
+        "description": "International admissions programs",
         "pages": [
           "ims-international/overview.mdx"
         ]
       },
       {
-        "tab": "GATE",
-        "groups": [],
+        "product": "GATE",
+        "icon": "cog",
+        "description": "GATE exam preparation",
         "pages": [
           "gate/overview.mdx"
         ]
