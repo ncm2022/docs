@@ -19,6 +19,13 @@
     "drilldown": false
   },
   "navigation": {
+    "anchors":[
+      {
+        "anchor": "Home",
+        "icon": "house",
+        "pages": ["index"]
+      }
+    ],
     "tabs": [
       {
         "tab": "Home"
