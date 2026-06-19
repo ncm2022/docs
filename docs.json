@@ -22,84 +22,79 @@
         "tab": "PG - Management Studies",
         "groups": [
           {
-            "group": " ",
+            "group": "Programs",
             "pages": [
-              "pg/catapult-2026/index"
-            ]
-          },
-          {
-            "group": "CATapult 2026 - Classroom/Online",
-            "collapsed": true,
-            "pages": [
-              "pg/catapult-2026/introduction",
-              "pg/catapult-2026/courseware",
-              "pg/catapult-2026/accessing-my-ims",
-              "pg/catapult-2026/my-ims-features",
-              "pg/catapult-2026/tests",
-              "pg/catapult-2026/masterclasses",
-              "pg/catapult-2026/my-plan",
-              "pg/catapult-2026/wat-gd-pi",
-              "pg/catapult-2026/community-and-social-media",
-              "pg/catapult-2026/ims-helpdesk",
-              "pg/catapult-2026/glossary",
-              "pg/catapult-2026/faq"
-            ]
-          },
-          {
-            "group": "CATapult 2026 - SLP",
-            "collapsed": true,
-            "pages": [
-              "pg/catapult-2026-slp/introduction",
-              "pg/catapult-2026-slp/courseware",
-              "pg/catapult-2026-slp/accessing-my-ims",
-              "pg/catapult-2026-slp/my-ims-features",
-              "pg/catapult-2026-slp/tests",
-              "pg/catapult-2026-slp/masterclasses",
-              "pg/catapult-2026-slp/my-plan",
-              "pg/catapult-2026-slp/community-and-social-media",
-              "pg/catapult-2026-slp/ims-helpdesk",
-              "pg/catapult-2026-slp/glossary",
-              "pg/catapult-2026-slp/faq"
-            ]
-          },
-          {
-            "group": "MBA CMAT/CET 2027",
-            "collapsed": true,
-            "pages": [
-              "pg/mba-cet-2027/introduction",
-              "pg/mba-cet-2027/courseware",
-              "pg/mba-cet-2027/accessing-my-ims",
-              "pg/mba-cet-2027/my-ims-features",
-              "pg/mba-cet-2027/tests",
-              "pg/mba-cet-2027/masterclasses",
-              "pg/mba-cet-2027/my-plan",
-              "pg/mba-cet-2027/wat-gd-pi",
-              "pg/mba-cet-2027/community-and-social-media",
-              "pg/mba-cet-2027/ims-helpdesk",
-              "pg/mba-cet-2027/glossary",
-              "pg/mba-cet-2027/faq"
+              {
+                "group": "CAT 2026 - Classroom/Online",
+                "icon": "arrow-up-right",
+                "pages": [
+                  "pg/catapult-2026/introduction",
+                  "pg/catapult-2026/courseware",
+                  "pg/catapult-2026/accessing-my-ims",
+                  "pg/catapult-2026/my-ims-features",
+                  "pg/catapult-2026/tests",
+                  "pg/catapult-2026/masterclasses",
+                  "pg/catapult-2026/my-plan",
+                  "pg/catapult-2026/wat-gd-pi",
+                  "pg/catapult-2026/community-and-social-media",
+                  "pg/catapult-2026/ims-helpdesk",
+                  "pg/catapult-2026/glossary",
+                  "pg/catapult-2026/faq"
+                ]
+              },
+              {
+                "group": "CATapult 2026 - SLP",
+                "icon": "arrow-up-right",
+                "pages": [
+                  "pg/catapult-2026-slp/introduction",
+                  "pg/catapult-2026-slp/courseware",
+                  "pg/catapult-2026-slp/accessing-my-ims",
+                  "pg/catapult-2026-slp/my-ims-features",
+                  "pg/catapult-2026-slp/tests",
+                  "pg/catapult-2026-slp/masterclasses",
+                  "pg/catapult-2026-slp/my-plan",
+                  "pg/catapult-2026-slp/community-and-social-media",
+                  "pg/catapult-2026-slp/ims-helpdesk",
+                  "pg/catapult-2026-slp/glossary",
+                  "pg/catapult-2026-slp/faq"
+                ]
+              },
+              {
+                "group": "MBA CMAT/CET 2027",
+                "icon": "arrow-up-right",
+                "pages": [
+                  "pg/mba-cet-2027/introduction",
+                  "pg/mba-cet-2027/courseware",
+                  "pg/mba-cet-2027/accessing-my-ims",
+                  "pg/mba-cet-2027/my-ims-features",
+                  "pg/mba-cet-2027/tests",
+                  "pg/mba-cet-2027/masterclasses",
+                  "pg/mba-cet-2027/my-plan",
+                  "pg/mba-cet-2027/wat-gd-pi",
+                  "pg/mba-cet-2027/community-and-social-media",
+                  "pg/mba-cet-2027/ims-helpdesk",
+                  "pg/mba-cet-2027/glossary",
+                  "pg/mba-cet-2027/faq"
+                ]
+              }
             ]
           }
         ]
       },
       {
         "tab": "UG - Management Studies",
-        "icon": "school",
         "groups": []
       },
       {
         "tab": "IMS Get. Set. Law",
-        "icon": "graduation-cap",
         "groups": []
       },
       {
         "tab": "IMS International",
-        "icon": "plane-takeoff",
         "groups": []
       },
       {
         "tab": "GATE",
-        "icon": "toolbox",
         "groups": []
       }
     ]
