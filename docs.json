@@ -25,7 +25,7 @@
         "icon": "graduation-cap",
         "groups": [
           {
-            "group": "Programs",
+            "group": "PG - Management Studies",
             "root": "pg/overview",
             "pages": [
               {
@@ -57,6 +57,7 @@
                   "pg/catapult-2026-slp/tests",
                   "pg/catapult-2026-slp/masterclasses",
                   "pg/catapult-2026-slp/my-plan",
+                  "pg/catapult-2026-slp/wat-gd-pi",
                   "pg/catapult-2026-slp/community-and-social-media",
                   "pg/catapult-2026-slp/ims-helpdesk",
                   "pg/catapult-2026-slp/glossary",
@@ -92,7 +93,42 @@
           {
             "group": "UG - Management Studies",
             "root": "ug/overview",
-            "pages": []
+            "pages": [
+              {
+                "group": "IPM Indore",
+                "expanded": false,
+                "pages": [
+                  "ug/ipm-indore/introduction",
+                  "ug/ipm-indore/courseware",
+                  "ug/ipm-indore/accessing-my-ims",
+                  "ug/ipm-indore/my-ims-features",
+                  "ug/ipm-indore/tests",
+                  "ug/ipm-indore/masterclasses",
+                  "ug/ipm-indore/my-plan",
+                  "ug/ipm-indore/community-and-social-media",
+                  "ug/ipm-indore/ims-helpdesk",
+                  "ug/ipm-indore/glossary",
+                  "ug/ipm-indore/faq"
+                ]
+              },
+              {
+                "group": "BBA",
+                "expanded": false,
+                "pages": [
+                  "ug/bba/introduction",
+                  "ug/bba/courseware",
+                  "ug/bba/accessing-my-ims",
+                  "ug/bba/my-ims-features",
+                  "ug/bba/tests",
+                  "ug/bba/masterclasses",
+                  "ug/bba/my-plan",
+                  "ug/bba/community-and-social-media",
+                  "ug/bba/ims-helpdesk",
+                  "ug/bba/glossary",
+                  "ug/bba/faq"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -103,7 +139,42 @@
           {
             "group": "IMS Get. Set. Law",
             "root": "get-set-law/overview",
-            "pages": []
+            "pages": [
+              {
+                "group": "Law 2028 - 5 Year LLB",
+                "expanded": false,
+                "pages": [
+                  "get-set-law/law-28/introduction",
+                  "get-set-law/law-28/courseware",
+                  "get-set-law/law-28/accessing-my-ims",
+                  "get-set-law/law-28/my-ims-features",
+                  "get-set-law/law-28/tests",
+                  "get-set-law/law-28/masterclasses",
+                  "get-set-law/law-28/my-plan",
+                  "get-set-law/law-28/community-and-social-media",
+                  "get-set-law/law-28/ims-helpdesk",
+                  "get-set-law/law-28/glossary",
+                  "get-set-law/law-28/faq"
+                ]
+              },
+              {
+                "group": "Law 2027 - 5 Year LLB",
+                "expanded": false,
+                "pages": [
+                  "get-set-law/law-27/introduction",
+                  "get-set-law/law-27/courseware",
+                  "get-set-law/law-27/accessing-my-ims",
+                  "get-set-law/law-27/my-ims-features",
+                  "get-set-law/law-27/tests",
+                  "get-set-law/law-27/masterclasses",
+                  "get-set-law/law-27/my-plan",
+                  "get-set-law/law-27/community-and-social-media",
+                  "get-set-law/law-27/ims-helpdesk",
+                  "get-set-law/law-27/glossary",
+                  "get-set-law/law-27/faq"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -114,7 +185,42 @@
           {
             "group": "IMS International",
             "root": "ims-international/overview",
-            "pages": []
+            "pages": [
+              {
+                "group": "GMAT",
+                "expanded": false,
+                "pages": [
+                  "ims-international/gmat/introduction",
+                  "ims-international/gmat/courseware",
+                  "ims-international/gmat/accessing-my-ims",
+                  "ims-international/gmat/my-ims-features",
+                  "ims-international/gmat/tests",
+                  "ims-international/gmat/masterclasses",
+                  "ims-international/gmat/my-plan",
+                  "ims-international/gmat/community-and-social-media",
+                  "ims-international/gmat/ims-helpdesk",
+                  "ims-international/gmat/glossary",
+                  "ims-international/gmat/faq"
+                ]
+              },
+              {
+                "group": "GRE",
+                "expanded": false,
+                "pages": [
+                  "ims-international/gre/introduction",
+                  "ims-international/gre/courseware",
+                  "ims-international/gre/accessing-my-ims",
+                  "ims-international/gre/my-ims-features",
+                  "ims-international/gre/tests",
+                  "ims-international/gre/masterclasses",
+                  "ims-international/gre/my-plan",
+                  "ims-international/gre/community-and-social-media",
+                  "ims-international/gre/ims-helpdesk",
+                  "ims-international/gre/glossary",
+                  "ims-international/gre/faq"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -125,7 +231,42 @@
           {
             "group": "GATE",
             "root": "gate/overview",
-            "pages": []
+            "pages": [
+              {
+                "group": "GATE Live Online 2027",
+                "expanded": false,
+                "pages": [
+                  "gate/gate-live-online-2027/introduction",
+                  "gate/gate-live-online-2027/courseware",
+                  "gate/gate-live-online-2027/accessing-my-ims",
+                  "gate/gate-live-online-2027/my-ims-features",
+                  "gate/gate-live-online-2027/tests",
+                  "gate/gate-live-online-2027/masterclasses",
+                  "gate/gate-live-online-2027/my-plan",
+                  "gate/gate-live-online-2027/community-and-social-media",
+                  "gate/gate-live-online-2027/ims-helpdesk",
+                  "gate/gate-live-online-2027/glossary",
+                  "gate/gate-live-online-2027/faq"
+                ]
+              },
+              {
+                "group": "GATE Hybrid 2027",
+                "expanded": false,
+                "pages": [
+                  "gate/gate-hybrid-2027/introduction",
+                  "gate/gate-hybrid-2027/courseware",
+                  "gate/gate-hybrid-2027/accessing-my-ims",
+                  "gate/gate-hybrid-2027/my-ims-features",
+                  "gate/gate-hybrid-2027/tests",
+                  "gate/gate-hybrid-2027/masterclasses",
+                  "gate/gate-hybrid-2027/my-plan",
+                  "gate/gate-hybrid-2027/community-and-social-media",
+                  "gate/gate-hybrid-2027/ims-helpdesk",
+                  "gate/gate-hybrid-2027/glossary",
+                  "gate/gate-hybrid-2027/faq"
+                ]
+              }
+            ]
           }
         ]
       }
