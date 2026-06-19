@@ -23,11 +23,10 @@
         "icon": "graduation-cap",
         "description": "Postgraduate management programs",
         "pages": [
-          "index.mdx",
+          "pg/overview",
           {
             "group": "Programs",
             "pages": [
-              "pg/overview.mdx",
               {
                 "group": "CAT 2026 - Classroom/Online",
                 "icon": "arrow-up-right",
@@ -93,7 +92,7 @@
         "icon": "book-open",
         "description": "Undergraduate management programs",
         "pages": [
-          "ug/overview.mdx"
+          "ug/overview"
         ]
       },
       {
@@ -101,7 +100,7 @@
         "icon": "scale",
         "description": "Law entrance programs",
         "pages": [
-          "get-set-law/overview.mdx"
+          "get-set-law/overview"
         ]
       },
       {
@@ -109,7 +108,7 @@
         "icon": "globe",
         "description": "International admissions programs",
         "pages": [
-          "ims-international/overview.mdx"
+          "ims-international/overview"
         ]
       },
       {
@@ -117,7 +116,7 @@
         "icon": "cog",
         "description": "GATE exam preparation",
         "pages": [
-          "gate/overview.mdx"
+          "gate/overview"
         ]
       }
     ]
