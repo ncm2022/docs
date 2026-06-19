@@ -24,6 +24,7 @@
           {
             "group": "Programs",
             "pages": [
+              "pg/overview.mdx",
               {
                 "group": "CAT 2026 - Classroom/Online",
                 "icon": "arrow-up-right",
@@ -83,19 +84,31 @@
       },
       {
         "tab": "UG - Management Studies",
-        "groups": []
+        "groups": [],
+        "pages": [
+          "ug/overview.mdx"
+        ]
       },
       {
         "tab": "IMS Get. Set. Law",
-        "groups": []
+        "groups": [],
+        "pages": [
+          "get-set-law/overview.mdx"
+        ]
       },
       {
         "tab": "IMS International",
-        "groups": []
+        "groups": [],
+        "pages": [
+          "ims-international/overview.mdx"
+        ]
       },
       {
         "tab": "GATE",
-        "groups": []
+        "groups": [],
+        "pages": [
+          "gate/overview.mdx"
+        ]
       }
     ]
   },
