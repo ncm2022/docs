@@ -21,6 +21,9 @@
   "navigation": {
     "tabs": [
       {
+        "tab": "Home"
+      },
+      {
         "tab": "PG - Management Studies",
         "icon": "graduation-cap",
         "groups": [
