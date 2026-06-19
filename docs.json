@@ -100,16 +100,15 @@
     ]
   },
   "navbar": {
-    "links": [],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
+    "links": []
   },
   "footer": {
     "socials": {
       "linkedin": "https://www.linkedin.com/school/ims-learning-resources"
     }
+  },
+  "contextual": {
+    "options": [],
+    "display": "header"
   }
 }
