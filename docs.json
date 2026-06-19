@@ -4,9 +4,9 @@
   "name": "IMS - Program Guides",
   "description": "IMS Program Guides",
   "colors": {
-    "primary": "#0000FF",
-    "light": "#ADD8E6",
-    "dark": "#0000FF"
+    "primary": "#166E3F",
+    "light": "#26BD6C",
+    "dark": "#166E3F"
   },
   "favicon": "/favicon.ico",
   "icons": {
@@ -16,107 +16,122 @@
     "eyebrows": "breadcrumbs"
   },
   "navigation": {
-    "directory": "card",
-    "products": [
+    "tabs": [
       {
-        "product": "PG - Management Studies",
+        "tab": "Home",
+        "pages": ["index"]
+      },
+      {
+        "tab": "PG - Management Studies",
         "icon": "graduation-cap",
-        "description": "Postgraduate management programs",
-        "pages": [
-          "pg/overview",
+        "groups": [
           {
             "group": "Programs",
             "pages": [
-              {
-                "group": "CATapult 2026 - Classroom/Online",
-                "icon": "arrow-up-right",
-                "collapsed": true,
-                "pages": [
-                  "pg/catapult-2026/introduction",
-                  "pg/catapult-2026/courseware",
-                  "pg/catapult-2026/accessing-my-ims",
-                  "pg/catapult-2026/my-ims-features",
-                  "pg/catapult-2026/tests",
-                  "pg/catapult-2026/masterclasses",
-                  "pg/catapult-2026/my-plan",
-                  "pg/catapult-2026/wat-gd-pi",
-                  "pg/catapult-2026/community-and-social-media",
-                  "pg/catapult-2026/ims-helpdesk",
-                  "pg/catapult-2026/glossary",
-                  "pg/catapult-2026/faq"
-                ]
-              },
-              {
-                "group": "CATapult 2026 - SLP",
-                "icon": "arrow-up-right",
-                "collapsed": true,
-                "pages": [
-                  "pg/catapult-2026-slp/introduction",
-                  "pg/catapult-2026-slp/courseware",
-                  "pg/catapult-2026-slp/accessing-my-ims",
-                  "pg/catapult-2026-slp/my-ims-features",
-                  "pg/catapult-2026-slp/tests",
-                  "pg/catapult-2026-slp/masterclasses",
-                  "pg/catapult-2026-slp/my-plan",
-                  "pg/catapult-2026-slp/community-and-social-media",
-                  "pg/catapult-2026-slp/ims-helpdesk",
-                  "pg/catapult-2026-slp/glossary",
-                  "pg/catapult-2026-slp/faq"
-                ]
-              },
-              {
-                "group": "MBA CMAT/CET 2027",
-                "icon": "arrow-up-right",
-                "collapsed": true,
-                "pages": [
-                  "pg/mba-cet-2027/introduction",
-                  "pg/mba-cet-2027/courseware",
-                  "pg/mba-cet-2027/accessing-my-ims",
-                  "pg/mba-cet-2027/my-ims-features",
-                  "pg/mba-cet-2027/tests",
-                  "pg/mba-cet-2027/masterclasses",
-                  "pg/mba-cet-2027/my-plan",
-                  "pg/mba-cet-2027/wat-gd-pi",
-                  "pg/mba-cet-2027/community-and-social-media",
-                  "pg/mba-cet-2027/ims-helpdesk",
-                  "pg/mba-cet-2027/glossary",
-                  "pg/mba-cet-2027/faq"
-                ]
-              }
+              "pg/overview"
+            ]
+          },
+          {
+            "group": "CATapult 2026 - Classroom/Online",
+            "collapsed": true,
+            "pages": [
+              "pg/catapult-2026/introduction",
+              "pg/catapult-2026/courseware",
+              "pg/catapult-2026/accessing-my-ims",
+              "pg/catapult-2026/my-ims-features",
+              "pg/catapult-2026/tests",
+              "pg/catapult-2026/masterclasses",
+              "pg/catapult-2026/my-plan",
+              "pg/catapult-2026/wat-gd-pi",
+              "pg/catapult-2026/community-and-social-media",
+              "pg/catapult-2026/ims-helpdesk",
+              "pg/catapult-2026/glossary",
+              "pg/catapult-2026/faq"
+            ]
+          },
+          {
+            "group": "CATapult 2026 - SLP",
+            "collapsed": true,
+            "pages": [
+              "pg/catapult-2026-slp/introduction",
+              "pg/catapult-2026-slp/courseware",
+              "pg/catapult-2026-slp/accessing-my-ims",
+              "pg/catapult-2026-slp/my-ims-features",
+              "pg/catapult-2026-slp/tests",
+              "pg/catapult-2026-slp/masterclasses",
+              "pg/catapult-2026-slp/my-plan",
+              "pg/catapult-2026-slp/community-and-social-media",
+              "pg/catapult-2026-slp/ims-helpdesk",
+              "pg/catapult-2026-slp/glossary",
+              "pg/catapult-2026-slp/faq"
+            ]
+          },
+          {
+            "group": "MBA CMAT/CET 2027",
+            "collapsed": true,
+            "pages": [
+              "pg/mba-cet-2027/introduction",
+              "pg/mba-cet-2027/courseware",
+              "pg/mba-cet-2027/accessing-my-ims",
+              "pg/mba-cet-2027/my-ims-features",
+              "pg/mba-cet-2027/tests",
+              "pg/mba-cet-2027/masterclasses",
+              "pg/mba-cet-2027/my-plan",
+              "pg/mba-cet-2027/wat-gd-pi",
+              "pg/mba-cet-2027/community-and-social-media",
+              "pg/mba-cet-2027/ims-helpdesk",
+              "pg/mba-cet-2027/glossary",
+              "pg/mba-cet-2027/faq"
             ]
           }
         ]
       },
       {
-        "product": "UG - Management Studies",
+        "tab": "UG - Management Studies",
         "icon": "book-open",
-        "description": "Undergraduate management programs",
-        "pages": [
-          "ug/overview"
+        "groups": [
+          {
+            "group": "Programs",
+            "pages": [
+              "ug/overview"
+            ]
+          }
         ]
       },
       {
-        "product": "IMS Get. Set. Law",
+        "tab": "IMS Get. Set. Law",
         "icon": "scale",
-        "description": "Law entrance programs",
-        "pages": [
-          "get-set-law/overview"
+        "groups": [
+          {
+            "group": "Programs",
+            "pages": [
+              "get-set-law/overview"
+            ]
+          }
         ]
       },
       {
-        "product": "IMS International",
+        "tab": "IMS International",
         "icon": "globe",
-        "description": "International admissions programs",
-        "pages": [
-          "ims-international/overview"
+        "groups": [
+          {
+            "group": "Programs",
+            "pages": [
+              "ims-international/overview"
+            ]
+          }
         ]
       },
       {
-        "product": "GATE",
+        "tab": "GATE",
         "icon": "cog",
-        "description": "GATE exam preparation",
-        "pages": [
-          "gate/overview"
+        "groups": [
+          {
+            "group": "Programs",
+            "pages": [
+              "gate/overview"
+            ]
+          }
         ]
       }
     ]
@@ -128,9 +143,5 @@
     "socials": {
       "linkedin": "https://www.linkedin.com/school/ims-learning-resources"
     }
-  },
-  "contextual": {
-    "options": [],
-    "display": "header"
   }
 }
