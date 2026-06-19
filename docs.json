@@ -4,9 +4,9 @@
   "name": "IMS - Program Guides",
   "description": "IMS Program Guides",
   "colors": {
-    "primary": "#166E3F",
-    "light": "#26BD6C",
-    "dark": "#166E3F"
+    "primary": "#0000FF",
+    "light": "#ADD8E6",
+    "dark": "#0000FF"
   },
   "favicon": "/favicon.ico",
   "icons": {
@@ -279,5 +279,8 @@
     "socials": {
       "linkedin": "https://www.linkedin.com/school/ims-learning-resources"
     }
+  },
+  "background": {
+    "decoration": "gradient"
   }
 }
