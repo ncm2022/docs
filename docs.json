@@ -19,14 +19,12 @@
     "drilldown": false
   },
   "navigation": {
-    "anchors": [
-      {
-        "anchor": "Home",
-        "icon": "house",
-        "href": "/"
-      }
-    ],
     "tabs": [
+      {
+        "tab": "Home",
+        "icon": "house",
+        "pages": ["index"]
+      },
       {
         "tab": "PG - Management Studies",
         "icon": "graduation-cap",
