@@ -281,6 +281,6 @@
     }
   },
   "background": {
-    "decoration": "gradient"
+    "decoration": "grid"
   }
 }
