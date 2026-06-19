@@ -17,6 +17,9 @@
   },
   "navigation": {
     "directory": "card",
+    "global": {
+      "pages": ["index"]
+    },
     "products": [
       {
         "product": "PG - Management Studies",
@@ -28,9 +31,9 @@
             "group": "Programs",
             "pages": [
               {
-                "group": "CAT 2026 - Classroom/Online",
+                "group": "CATapult 2026 - Classroom/Online",
                 "icon": "arrow-up-right",
-                "expanded": false,
+                "collapsed": true,
                 "pages": [
                   "pg/catapult-2026/introduction",
                   "pg/catapult-2026/courseware",
@@ -49,7 +52,7 @@
               {
                 "group": "CATapult 2026 - SLP",
                 "icon": "arrow-up-right",
-                "expanded": false,
+                "collapsed": true,
                 "pages": [
                   "pg/catapult-2026-slp/introduction",
                   "pg/catapult-2026-slp/courseware",
@@ -67,7 +70,7 @@
               {
                 "group": "MBA CMAT/CET 2027",
                 "icon": "arrow-up-right",
-                "expanded": false,
+                "collapsed": true,
                 "pages": [
                   "pg/mba-cet-2027/introduction",
                   "pg/mba-cet-2027/courseware",
