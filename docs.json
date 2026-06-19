@@ -15,7 +15,19 @@
   "styling": {
     "eyebrows": "breadcrumbs"
   },
+  "interaction": {
+    "drilldown": false
+  },
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Home",
+          "icon": "house",
+          "href": "/"
+        }
+      ]
+    },
     "tabs": [
       {
         "tab": "PG - Management Studies",
@@ -23,8 +35,8 @@
         "groups": [
           {
             "group": "Programs",
+            "root": "pg/overview",
             "pages": [
-              "pg/overview",
               {
                 "group": "CATapult 2026 - Classroom/Online",
                 "expanded": false,
@@ -88,9 +100,8 @@
         "groups": [
           {
             "group": "UG - Management Studies",
-            "pages": [
-              "ug/overview"
-            ]
+            "root": "ug/overview",
+            "pages": []
           }
         ]
       },
@@ -100,9 +111,8 @@
         "groups": [
           {
             "group": "IMS Get. Set. Law",
-            "pages": [
-              "get-set-law/overview"
-            ]
+            "root": "get-set-law/overview",
+            "pages": []
           }
         ]
       },
@@ -112,9 +122,8 @@
         "groups": [
           {
             "group": "IMS International",
-            "pages": [
-              "ims-international/overview"
-            ]
+            "root": "ims-international/overview",
+            "pages": []
           }
         ]
       },
@@ -124,9 +133,8 @@
         "groups": [
           {
             "group": "GATE",
-            "pages": [
-              "gate/overview"
-            ]
+            "root": "gate/overview",
+            "pages": []
           }
         ]
       }
