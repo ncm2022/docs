@@ -100,8 +100,7 @@
             "root": "ug/overview",
             "pages": [
               {
-                "group": "IPM Indore",
-                "expanded": false,
+                "group": "IPM Indore - Classroom/Online",
                 "pages": [
                   "ug/ipm-indore/introduction",
                   "ug/ipm-indore/courseware",
@@ -117,8 +116,7 @@
                 ]
               },
               {
-                "group": "BBA",
-                "expanded": false,
+                "group": "IPM BBA - Classroom/Online",
                 "pages": [
                   "ug/bba/introduction",
                   "ug/bba/courseware",
@@ -131,6 +129,17 @@
                   "ug/bba/ims-helpdesk",
                   "ug/bba/glossary",
                   "ug/bba/faq"
+                ]
+              },
+              {
+                "group": "IPMAT Indore / CUET – Classroom",
+                "pages": []
+              },
+              {
+                "group": "IPM BBA / CUET – Classroom",
+                "pages": [
+                  "introduction-1",
+                  "list-of-institutes-course-wise"
                 ]
               }
             ]
