@@ -146,8 +146,7 @@
             "root": "get-set-law/overview",
             "pages": [
               {
-                "group": "Law 2028 - 5 Year LLB",
-                "expanded": false,
+                "group": "Law Comprehensive 2027 - 5 Year LL.B.",
                 "pages": [
                   "get-set-law/law-28/introduction",
                   "get-set-law/law-28/courseware",
@@ -163,8 +162,7 @@
                 ]
               },
               {
-                "group": "Law 2027 - 5 Year LLB",
-                "expanded": false,
+                "group": "Law Comprehensive 2028 - 5 Year LL.B.",
                 "pages": [
                   "get-set-law/law-27/introduction",
                   "get-set-law/law-27/courseware",
@@ -178,6 +176,20 @@
                   "get-set-law/law-27/glossary",
                   "get-set-law/law-27/faq"
                 ]
+              },
+              {
+                "group": "Law ADLAT - 5 Year LL.B.",
+                "pages": [
+                  "introduction",
+                  "accessing-my-ims",
+                  "my-ims-features",
+                  "program-features",
+                  "courseware"
+                ]
+              },
+              {
+                "group": "Law Comprehensive - 3 Year LL.B.",
+                "pages": []
               }
             ]
           }
